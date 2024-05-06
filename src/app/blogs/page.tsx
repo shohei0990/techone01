@@ -1,3 +1,6 @@
+// テスト用
+/*
+
 import Link from "next/link";
 import { getBlogs } from "@/../libs/client";
 
@@ -22,3 +25,4 @@ export default async function StaticPage() {
       </>
     );
   }
+*/

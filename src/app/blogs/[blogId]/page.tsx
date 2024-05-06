@@ -1,3 +1,6 @@
+// テスト用 
+
+/*
 import { getDetail,getBlogs } from "@/../libs/client";
 import Link from "next/link"
 
@@ -30,3 +33,4 @@ export default async function StaticDetailPage({
     </>
   )
 }
+*/
