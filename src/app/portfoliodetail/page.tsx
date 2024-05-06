@@ -10,7 +10,7 @@ export default function PortfolioDetail() {
       <div className="px-5 py-10">
         <div className="max-w-4xl mx-auto">
           <div className="mt-8 mb-8">
-            <img src="/img/image1.png" alt="プロジェクトの詳細画像" className="w-full max-w-lg mx-auto rounded-lg shadow-lg" />
+            <img src="/img/image1.png" alt="プロジェクトの詳細画像" className="w-full max-w-sm mx-auto rounded-lg shadow-lg" />
           </div>
           <div className="text-lg">
             <h1 className="text-2xl font-bold mb-3">プロジェクト名</h1>
